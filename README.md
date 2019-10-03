@@ -1,10 +1,12 @@
-# Sample Snack app
+# Flying Fish
 
-Welcome to Expo!
+Flying Fish aims to deliver fresh Fish & Chips directly from sea-side locations on the coast of the UK to consumers living in London via drones.
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by clicking the **Run** button or use the simulator by clicking **Tap to Play**. When you're done, click **Save** and share the link!
+Flying Fish is a simple React Native application built in Expo's online emulator.
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Export** your project and use it with [expo-cli](https://docs.expo.io/versions/latest/introduction/installation.html).
+Live @ https://snack.expo.io/@niki.jiandani/flying-fish
+
+## Additional Information
 
 Projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the **Embed** button.
 
